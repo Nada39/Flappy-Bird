@@ -29,7 +29,7 @@ This version is **inspired by the famous original** with two difficulty levels:
       
 2. **Access Application**
    - If you want to try the game navigate to **Application Folder** then enter **Flappy bird.exe**. Enjoy :)
-   - If you want to discover the code run **source_code Folder** in visual studio.
+   - If you want to discover the code run **Source_code Folder** in visual studio.
 
 ## 👥 Team Members
 - Mohamed Samy (Team leader)
