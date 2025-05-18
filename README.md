@@ -25,6 +25,7 @@ This version is **inspired by the famous original** with two difficulty levels:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/Nada39/Flappy-Bird.git.
+   ```
       
 2. **Access Application**
    - If you want to try the game navigate to **Application Folder** then enter **Flappy bird.exe**. Enjoy :)
