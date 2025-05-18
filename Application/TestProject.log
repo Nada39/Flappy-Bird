@@ -1,0 +1,86 @@
+﻿  Collision.cpp
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(70,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(71,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(73,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(73,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(74,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(74,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(136,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(137,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(137,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VS2019_projects\flappy\THE_FINAL\Collision.cpp(138,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  engine.cpp
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(178,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(199,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(203,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(246,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(279,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(280,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(535,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(564,29): warning C4804: '~': unsafe use of type 'bool' in operation
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(564,29): warning C4552: '~': result of expression not used
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(625,37): warning C4804: '~': unsafe use of type 'bool' in operation
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(625,37): warning C4552: '~': result of expression not used
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(761,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(764,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(771,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(794,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(798,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(842,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(876,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(877,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(936,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(1164,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Source.cpp
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(178,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(199,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(203,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(246,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(279,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(280,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(535,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(564,29): warning C4804: '~': unsafe use of type 'bool' in operation
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(564,29): warning C4552: '~': result of expression not used
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(625,37): warning C4804: '~': unsafe use of type 'bool' in operation
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(625,37): warning C4552: '~': result of expression not used
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(761,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(764,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(771,34): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(794,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(798,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(842,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(876,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(877,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(936,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2019_projects\flappy\THE_FINAL\engine.cpp(1164,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\Source.cpp(58,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2019_projects\flappy\THE_FINAL\Source.cpp(365,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 396 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TestProject.vcxproj -> D:\VS2019_projects\flappy\THE_FINAL\Release\TestProject.exe
